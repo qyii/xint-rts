@@ -1,6 +1,6 @@
 import * as React from 'react';
 import * as ReactDOM from 'react-dom';
-import App from './Hello';
+import App from './pages/StatefulHello';
 
 ReactDOM.render(
   <App name='fubuki' />,
